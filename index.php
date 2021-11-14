@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Gerencia Sorvete Mania</title>
+    <title>Gerência Sorvete Mania</title>
     <link rel="stylesheet" href="_css/estilo.css">
 </head>
 
