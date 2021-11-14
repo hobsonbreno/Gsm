@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>GSM</title>
+    <title>Gerencia Sorvete Mania</title>
     <link rel="stylesheet" href="_css/estilo.css">
 </head>
 
