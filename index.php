@@ -29,7 +29,7 @@
 
                 Item<br>
                 <input type="text" name="item" class="campo" maxlength="40" required autofocus><br>
-                quantidade<br>
+                Quantidade<br>
                 <input type="numero" name="quantidade" class="campo" maxlength="40" required><br>
                 Valor<br>
                 <input type="numero" name="valor" class="campo" maxlength="40" required><br>
