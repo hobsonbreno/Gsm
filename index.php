@@ -11,27 +11,27 @@
     <div class="container">
         <nav>
             <ul class="menu">
-                <li>Pdv</li>
-                <li>Cadastro</li>
-                <li>Contagem</li>
-                <li>Fechamento de Caixa</li>
-                <li>Relatórios</li>
+                <li>PDV</li>
+                <li>CADASTRO</li>
+                <li>CONTAGEM</li>
+                <li>FECHAMENTO DE CAIXA</li>
+                <li>RELATÓRIOS</li>
             </ul>
         </nav>
         <section>
 
-            <h1>Cadastro de Despesas</h1>
+            <h1>CADASTRO DE DESPESAS</h1>
             <hr><br><br>
             <form method="POST" action="processa.php">
                 <input type="submit" value="Salvar" class="btn">
                 <input type="reset" value="Limpar" class="btn">
                 <br><br>
 
-                Item<br>
+                ITEM<br>
                 <input type="text" name="item" class="campo" maxlength="40" required autofocus><br>
-                Quantidade<br>
+                QUANTIDADE<br>
                 <input type="numero" name="quantidade" class="campo" maxlength="40" required><br>
-                Valor<br>
+                VALOR<br>
                 <input type="numero" name="valor" class="campo" maxlength="40" required><br>
             </form>
         </section>
