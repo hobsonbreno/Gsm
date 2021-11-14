@@ -15,7 +15,7 @@
                 <li>Cadastro</li>
                 <li>Contagem</li>
                 <li>Fechamento de Caixa</li>
-                <li>Relatorios</li>
+                <li>Relatórios</li>
             </ul>
         </nav>
         <section>
