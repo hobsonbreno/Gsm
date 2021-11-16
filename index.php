@@ -11,12 +11,20 @@
     <div class="container">
         <nav>
             <ul class="menu">
+
                 <a href="http://pdvsm.000webhostapp.com/login">
                     <li>PDV</li>
-                    <li>CADASTRO</li>
+
+            </ul>
+            <ul class="menu">
+
+                <a href="">
                     <li>CONTAGEM</li>
-                    <li>FECHAMENTO DE CAIXA</li>
-                    <li>RELATÓRIOS</li>
+            </ul>
+            <ul class="menu">
+
+                <a href="http://pdvsm.000webhostapp.com/reports/daily_sales">
+                    <li>RELATÓRIOS DE VENDAS </li>
             </ul>
         </nav>
         <section>
