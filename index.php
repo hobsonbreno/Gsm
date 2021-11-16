@@ -11,18 +11,19 @@
     <div class="container">
         <nav>
             <ul class="menu">
-                <li>PDV</li>
-                <li>CADASTRO</li>
-                <li>CONTAGEM</li>
-                <li>FECHAMENTO DE CAIXA</li>
-                <li>RELATÓRIOS</li>
+                <a href="http://pdvsm.000webhostapp.com/login">
+                    <li>PDV</li>
+                    <li>CADASTRO</li>
+                    <li>CONTAGEM</li>
+                    <li>FECHAMENTO DE CAIXA</li>
+                    <li>RELATÓRIOS</li>
             </ul>
         </nav>
         <section>
 
             <h1>CADASTRO DE DESPESAS</h1>
             <hr><br><br>
-            <form method="POST" action="processa.php">
+            <form method=" POST" action="processa.php">
                 <input type="submit" value="Salvar" class="btn">
                 <input type="reset" value="Limpar" class="btn">
                 <br><br>
